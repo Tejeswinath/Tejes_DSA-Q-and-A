@@ -1,0 +1,9 @@
+1)  https://pandas.pydata.org/docs/reference/api/pandas.Series.html
+2)  https://numpy.org/doc/stable/reference/generated/numpy.linspace.html
+
+
+Q 4) import pandas as pd
+data={'Country':['Russia','Columbia','Chile','Equador','Nigeria'],
+      'Rank':[121,40,100,130,11]}
+df=pd.DataFrame(data)
+print(df)
